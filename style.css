@@ -1,0 +1,25 @@
+#gif {
+    width: 100%;
+    height: 400px;
+}
+
+body {
+    text-align: center;
+    background-color: crimson;
+    margin-bottom: 60px;
+}
+
+.photo {
+    height: 300px;
+    width: 300px;
+}
+hr{
+    width:100%;
+}
+#myCarousel img{
+    width: 100%;
+    height: 400px;
+    }
+h4{
+    color: black;
+}
